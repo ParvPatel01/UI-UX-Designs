@@ -9,7 +9,7 @@ Each project highlights different aspects of user-centered design — from redes
 | Project | Type | Focus Area | Tools |
 |----------|------|-------------|-------|
 | [**Notion High-Fidelity Redesign**](https://www.figma.com/design/xXvsNvjReGuh8k3Mjk4N9U/Notion-High-Fidelelity?node-id=67-77&p=f) | High-fidelity UI | Workspace redesign, consistency, navigation | Figma |
-| [**Chase Banking App Wireframes**](./Chase_Wireframe.pdf) | Low-fidelity Wireframe | Finance usability, user flows, accessibility | Balsamiq |
+| [**Chase Banking App Wireframes**](./Chase_Wirefram,e.pdf) | Low-fidelity Wireframe | Finance usability, user flows, accessibility | Balsamiq |
 | [**Myntra App Redesign**](./Myntra.pdf) | Wireframe | E-commerce navigation, checkout flow | Mocqup tool |
 | [**Hope of Child Concept App**](https://www.figma.com/design/lJ7KiJ6c3Y6viBI5aKjWTe/HopeOfChild?node-id=0-1&p=f) | Concept Design | Child empowerment, parental dashboard | Figma, Notion |
 
